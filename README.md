@@ -12,7 +12,7 @@ Não é possível avaliar um prêmio como bom ou ruim. É possível verificar se
 
 Colocando um exemplo, em 2018, a guerra comercial entre EUA e China deprimiu as cotações da soja na CBOT ao mesmo tempo que aumentou a demanda chinesa por exportações do Brasil, o que elevou o preço da oleaginosa em praças e portos brasileiros. Ao mesmo tempo, o cenário de elevação dos juros nos EUA e a incerteza política no Brasil causou forte desvalorização cambial. A combinação destes fatores resultou em um considerável aumento dos prêmios da soja, que se situaram em patamares muito acima das médias históricas. Abaixo está um gráfico histórico do prêmio de soja em Paranaguá, que ilustra a situação e que é periodicamente publicado pela Inteligência de Mercado:
 
-![] (1-1.bmp)
+![](1-1.bmp)
 
 Em conclusão, o prêmio é um assunto bastante complexo e que é influenciado por diversos fatores distintos (O&D, logística, cenário macro e cambial, etc), tanto globais quanto regionais.
 
